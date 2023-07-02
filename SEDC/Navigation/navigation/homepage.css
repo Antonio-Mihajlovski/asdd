@@ -1,0 +1,35 @@
+#about-us-image{
+ width: 100%;
+ height: 650px;
+
+}
+
+#mens-choices-image{
+    width: 900px;
+    height: 670px;
+}
+
+#womens-choice-image{
+    width: 100%;
+    height: 650px;
+}
+
+#nav-bar{
+    background-color: black!important;
+}
+
+#cards-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    background-color: black;
+    position: absolute;
+    top: 1800px;
+    width: 100%;
+    height: 50px;
+    color: black;
+    color: whitesmoke;
+    
+}

@@ -1,0 +1,35 @@
+#shirt-button{
+    position:absolute;
+    top: 1120px;
+    left: 80px;
+}
+
+#dress-button{
+    position: absolute;
+    top: 1120px;
+    left: 820px;
+}
+
+#jacket-button{
+    position: absolute;
+    top: 1630px;
+    left: 500px;
+}
+
+#jeans-button{
+    position: absolute;
+    top: 1120px;
+    right: 175px;
+}
+
+.shopBtn{
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.shopBtn:hover{
+    background-color: yellow;
+    width: 130px;
+    height: 50px;
+}
